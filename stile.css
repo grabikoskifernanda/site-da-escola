@@ -9,13 +9,13 @@ body {
 
 /* secao cabecalho*/
 .cabecalho {
-    background-color: #3B0050;
-    color: white;
+    background-color: #000000;
+    color: rgb(18, 11, 82);
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
-    border-bottom: 2px solid #ffff00b2;
+    border-bottom: 2px solid #2905f5b2;
 }
 
 .cabecalho-imagem{
@@ -36,12 +36,12 @@ body {
 }
 /* secao sobre nos*/
 .sobre_nos{
-    background-image: linear-gradient(#3B0050,#3b00501f);
+    background-image: linear-gradient(#6870df,#3b00501f);
     color:#FFFFFF;
     display: flex;
     justify-content: center;
     padding: 50px;
-    border-bottom: 2px solid #ffff00b2;
+    border-bottom: 2px solid #2501f0b2;
 }
 
 .sobre_nos-div-conteudo{
@@ -63,11 +63,11 @@ body {
 
 /* secao lojas*/
 .lojas{
-    background-color: #a9a9a9;
+    background-color: #000000;
 }
 
 .lojas-titulo{
-color: #3B0050;
+color: #2b1896;
 text-align: center;
 padding: 50px;
 font-size: 45px;
@@ -93,7 +93,7 @@ font-size: 45px;
 .lojas-estado-nome:hover{
     font-weight: 100;
     text-decoration: underline;
-    color: orange;
+    color: rgb(42, 61, 97);
 }
 .lojas-estado-icone{
     width: 30px;
@@ -108,13 +108,13 @@ font-size: 45px;
     background-color: black;
     text-align: center;
     padding: 50px;
-    border-top: 2px solid #ffff00b2;
+    border-top: 2px solid #220799f1;
 }
 
 .rodape-titulo{
     font-size: 25px;
     font-weight: bold;
-    color: #ffff00b2;
+    color: #150888b2;
 }
 
 .rodape-imagem{
